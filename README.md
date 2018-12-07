@@ -4,7 +4,7 @@ fork from [https://github.com/floatinghotpot/cordova-facebook-audnet-sdk](https:
 # how to use
 *** modify ./platforms/ios/cordova/lib/Podfile.js 100 行 8.0 改为 9.0. for facebook 5.1.0 sdk***
 
-`cordova plugin add https://github.com/floatinghotpot/cordova-facebook-audnet-sdk`
+`cordova plugin add https://github.com/mingz2013/cordova-facebook-audnet-sdk`
  
  
 Or, use it as dependency of another plugin by reference in plugin.xml:
