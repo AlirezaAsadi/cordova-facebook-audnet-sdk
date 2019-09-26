@@ -44,7 +44,7 @@
     <framework src="libxml2.tbd"/>
 
     <!-- required cordova 6.4.0 or higher -->
-    <framework src="FBAudienceNetwork" type="podspec" spec="~> 5.5.0"/>
+    <framework src="FBAudienceNetwork" type="podspec" spec="~> 5.5"/>
 
     <!-- FBAudienceNetwork in cocapods is not up to date, so we still download the SDK -->
     <!-- framework src="FBAudienceNetwork.framework" custom="true" /-->
